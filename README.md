@@ -68,3 +68,7 @@ $env:USE_INMEMORY_DB='true'; npm run dev
 ```
 
 This uses `mongodb-memory-server` and keeps data in memory only for the running session.
+
+## Dashboard Interface
+
+![Dashboard Interface](screenshots/Dashboard_Interface.png)
